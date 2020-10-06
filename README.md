@@ -21,10 +21,21 @@ HTML5 Bootstrap responsive website.
 * Computers are machines, more powerful every year, give them hard work, concentrate on being productive.
 * Often people, especially computer engineers, focus on the machines. They think, "By doing this, the machine will run fast. By doing this, the machine will run more effectively. By doing this, the machine will something, something, something..." They are focusing on machines. But in fact we need to focus on humans, on how humans care about doing programming or operating the application of the machines. We are the masters. They are the slaves. [Yukihiro Matsumoto].
 
+## Website
+![screenshoot](docs/images/screencapture-cfgconsultores-co-2020-10-06.jpg)
+
+## Landing Pages
+
+Integrated with Mailerlite (Email Marketing)
+![screenshoot](docs/images/screencapture-cfgconsultores-co-landing1-2020-10-06.jpg)
+![screenshoot](docs/images/screencapture-cfgconsultores-co-landing2-2020-10-06.jpg)
+![screenshoot](docs/images/screencapture-cfgconsultores-co-landing3-2020-10-06.jpg)
+![screenshoot](docs/images/screencapture-cfgconsultores-co-landing4-2020-10-06.jpg)
+
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details.
+This project is licensed under the CC0 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 Made with ❤️ by **[Javier Cañon](https://javiercanon.com)**.

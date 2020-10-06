@@ -1,0 +1,26 @@
+[
+  {
+    "outputFileName": "css/fonts.min.css",
+    "inputFiles": [
+      "css/fonts.css"
+    ]
+  },
+  {
+    "outputFileName": "css/style.min.css",
+    "inputFiles": [
+      "css/style.css"
+    ]
+  },
+  {
+    "outputFileName": "js/script.min.js",
+    "inputFiles": [
+      "js/script.js"
+    ]
+  },
+  {
+    "outputFileName": "landing1/css/style.min.css",
+    "inputFiles": [
+      "landing1/css/style.css"
+    ]
+  }
+]
